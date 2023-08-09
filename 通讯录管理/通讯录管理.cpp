@@ -2,7 +2,7 @@
 #include<string>
 using namespace std;
 
-#define MAX 10000
+#define MAX 2000
 
 //联系人结构体
 struct Person
